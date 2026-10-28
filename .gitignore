@@ -1,0 +1,28 @@
+# macOS metadata
+.DS_Store
+
+# Xcode user settings and build output
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcarchive
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager generated files
+.build/
+.swiftpm/
+
+# Local editor and build server configuration
+.zed/
+buildServer.json
+.bsp/
+
+# Local secrets
+.env
+.env.*
+!.env.example

@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		658A61713091B962008B0596 /* TaskTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TaskTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		658A61823091C43C008B0596 /* AGENTS.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = AGENTS.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +33,7 @@
 			children = (
 				658A61733091B962008B0596 /* TaskTracker */,
 				658A61723091B962008B0596 /* Products */,
+				658A61823091C43C008B0596 /* AGENTS.md */,
 			);
 			sourceTree = "<group>";
 		};
